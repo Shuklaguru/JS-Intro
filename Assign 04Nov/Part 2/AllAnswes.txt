@@ -1,0 +1,27 @@
+﻿Ans1– Javascript is a programming language commonly used in web development to         
+         enhance interactivity and create dynamic content on websites. It runs in web browser , allowing developers to manipulate the DOM, handle event and make asynchronous requests.
+
+
+Ans2–HTML— it is stand for Hyper text Markup Language which is to give structure to the                      websites.
+    JavaScript– it is used give functionality to the websites. Different js library provide different functionality and features.
+
+
+Ans3– there are as follows -
+      1 string
+      2 Number
+      3. Boolean
+      4.Null
+      5. BigInt
+
+
+
+
+Ans4– purpose of variable in js is store different types of data in it to provide some functionality and features
+
+
+Ans5– Comments are used unexecutable code provide to give extra information to understand code. At the time of execution it ignore that statement.
+
+
+
+
+Ans5– To store data in variable always use the meaningful name it will improve the code readability

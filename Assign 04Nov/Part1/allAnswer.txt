@@ -1,0 +1,38 @@
+﻿Ans1.--  Operator in javaScript perform various operation on variable and values.They are 
+           Essential for manipulating data and controlling program flow.
+
+
+Ans2– there are mainly 5 types of operator in javaScript:
+1. Arithmetic operator 
+2. Comparison operator 
+3. Logical operator
+4. Assignment operator
+5. Miscellaneous operator
+
+
+
+
+Ans3.  difference between unary , ternary and binary operator are as follows–
+1. Unary operator-
+* Unary operate on single operands.
+* Example include (+,-,!, Typeof).
+2. Ternary operator
+* Binary operator operate on two operands.
+* Example includes arithmetic operator, comparison and logical operator symbol.
+3.    Ternary operator
+* Ternary operator is only operator in javaScript that take two operator.
+* If short hand writing the if-else condition.
+
+
+
+
+Ans3.    Operator Precedence.
+* Operator precedence determine the order in which operator are evaluated
+* Like multiplication has higher precedence and plus(+) has lower precedence.
+
+
+
+
+         Operator associativity
+* Associativity determine a grouping if operator with the same precedence
+* left -to - right associativity means the leftmost operands have higher priority.
